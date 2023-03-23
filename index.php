@@ -1,25 +1,207 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
+<style>
+    section,
+    header {
+        margin-left: 20px;
+    }
+
+    strong {
+        font-size: 40;
+    }
+
+    sup {
+        margin-left: -0.0em;
+    }
+
+    iframe {
+        margin-left: auto;
+        text-align: center;
+    }
+</style>
+
 <head>
     <meta charset="UTF-8">
-    <title>Contact Us</title>
+    <title>Wakeel Furqan Ahmed - CV</title>
 </head>
+
 <body>
-    <h1>Contact Us</h1>
+    <link rel="stylesheet" type="text/css" href="NavBar CSS.css">
+    <div class="btn-group" style="width:100%;">
+        <a href="#">
+            <button class="button" style="width:14.285714285714285714285714285714%;">Home</button>
+        </a>
+        <a href="/Pages/About Me.html">
+            <button class="button" style="width:14.285714285714285714285714285714%;">About Me</button>
+        </a>
+        <a href="/Pages/Educational_Details.html"><button class="button"
+                style="width:14.285714285714285714285714285714%;">Educational Details</button></a>
+        <a href="/Pages/Projects/Projects.html"><button class="button"
+                style="width:14.285714285714285714285714285714%;">Projects</button></a>
+        <a href="My Ideals.html"><button class="button" style="width:14.285714285714285714285714285714%;">My
+                Ideals</button></a>
+        <a href="Hobbies.html"><button class="button"
+                style="width:14.285714285714285714285714285714%;">Hobbies</button></a>
+        <a href="Links.html"><button class="button" style="width:14.285714285714285714285714285714%;">Links</button></a>
+    </div>
+
+
+    <header>
+        <h1 style="margin-left : 20px;">
+            Wakeel Furqan Ahmed
+            <img src="images/Wakeel.JPG" alt="My Picture" width="10%" height="10%"
+                style="margin-left: 75px; margin-bottom:-65px;" />
+        </h1>
+        <p style="margin-top:-18px;">Rawalpindi, Punjab, Pakistan</p>
+        <br>
+        <img src="images/mail.png" alt="BU logo" width="2%" height="2%" align="left" style="margin-top: -10px;" />
+        <a style="margin-left: 8px;" href="mailto:wakeelfahmed@gmail.com"> Wakeelfahmed@gmail.com | Gmail</a>
+        <br><br>
+        <img src="images/linkedin.png" alt="linkedin logo" width="2%" height="2%" align="left"
+            style="margin-top: -10px;" />
+        <a style="margin-left: 8px;" href="https://www.linkedin.com/in/wakeel-furqan-ahmed-003a0b220/">
+            Wakeel Furqan
+            Ahmed | LinkedIn
+        </a>
+        <br><br>
+        <img src="images/Github.svg" alt="Github logo" width="2.25%" height="2.25%" align="left"
+            style="margin-top: -6px;" />
+        <a style="margin-left: 8px;" href="https://github.com/Wakeelfahmed">
+            Wakeelfahmed (Wakeel Furqan Ahmed) |
+            GitHub
+        </a>
+    </header>
+
+    <section>
+        <h2>Education</h2>
+        <img src="images/BU logo.jpg" alt="BU logo" width="4.5%" height="4.5%" align="left" />
+        <div style="margin-left: 100px;">
+            <strong>Bahria University, Islamabad</strong><br>
+            BSCS, Computer Science<br>
+            2021 – 2025 (in progress)<br>
+            1st semester GPA 3.62 2nd semester GPA 3.41 CGPA: 3.51
+        </div>
+        <br>
+        <img src="images/HAPS.svg" alt="HAPS logo" width="4.5%" height="4.5%" align="left" />
+        <div style="margin-left: 100px;">
+            <strong>Hamza Army Public School &amp; College System</strong><br>
+            ICS, Computer Science (2019 - 2021)<br>
+            Intermediate of Computer Science, FBISE<br>
+            848/110 77%
+        </div>
+        <br>
+        <img src="images/HAPS.svg" alt="HAPS logo" width="4.5%" height="4.5%" align="left" />
+        <div style="margin-left: 100px;">
+            <strong>Hamza Army Public School &amp; College System</strong><br>
+            High School Diploma (SSC/Matric), Science (2017 - 2019)<br>
+            Math, Physics, Chemistry &amp; Computer Science, FBISE<br>
+            956/1100 86.91%
+        </div>
+    </section>
+
+    <section>
+        <h2>Work Experience</h2>
+        <img src="images/Breshna.jpg" alt="GRID logo" width="5%" height="5%" align="left" />
+        <div style="margin-left: 100px;">
+            <strong>Breshna Summer intern – Gaming Revolution for International Development (GRID)</strong><br>
+            Bahria Innovation Center, BUIC<br>
+            1 Aug 2022 – October 2022
+        </div>
+    </section>
+    <section>
+        <h2>Skills</h2>
+        <div style="margin-left: 70px;">
+            Adobe Illustrator • Adobe Photoshop • Assembly (lang) • C++/C • OOP • Cascading Style Sheets (CSS) • C#
+            (Basic)
+            <br>
+            DSA • Git • GitHub • Graphic Design • HTML • JavaScript • Microsoft Office • React.js • Unity 3D • WordPress
+        </div>
+    </section>
+
+    <section>
+        <h2>Certifications</h2>
+        <img src="images/Digiskills.png" alt="Digiskills logo" width="3.9%" height="3.9%" align="left"
+            style="margin-top: -13px;" />
+        <div style="margin-left: 100px;">
+            <strong>GRAPHIC DESIGN Course - DigiSkills.pk</strong><br>
+            Certificate ID: 9QY9FSXPQ<br>
+        </div><br>
+        <img src="images/Digiskills.png" alt="Digiskills logo" width="3.9%" height="3.9%" align="left"
+            style="margin-top: -12px;" />
+        <div style="margin-left: 100px;">
+            <strong>WORDPRESS DESIGN Course - DigiSkills.pk</strong><br>
+            Certificate ID: ZCJHK8JP<br>
+        </div><br>
+        <img src="images/HMTL CSS bootstrap.jpg" alt="Coursera logo" width="3.9%" height="3.9%" align="left"
+            style="margin-top: -10px;" />
+        <div style="margin-left: 100px;">
+            <strong>HTML, CSS, and JavaScript for Web Developers – Coursera</strong><br>
+            Aug 2022 <br>
+            No Certificate (audit mode)
+        </div><br>
+        <img src="images/Code with Mosh.jpg" alt="CodewhMosh logo" width="3.9%" height="3.9%" align="left"
+            style="margin-top: -0px;" />
+        <div style="margin-left: 100px;">
+            <strong>Mastering React – Code with Mosh</strong><br>
+            Aug 2022 <br>
+            No Certificate
+        </div>
+    </section>
+
+    <section>
+        <h2>Awards</h2>
+        <img src="images/opf-logo-1.png" alt="OPF logo" width="4%" height="4%" align="left" />
+        <div style="margin-left: 100px;">
+            <strong>OPF Merit based Scholarship – Overseas Pakistani Foundation</strong><br>
+            Sep 2022
+        </div>
+        <br><br>
+        <img src="images/CodeFest22.jpg" alt="CodeFest22 logo" width="4%" height="4%" align="left" />
+        <div style="margin-left: 100px;">
+            <strong>Winner of Project Gala – Bahria University CodeFeast’22</strong><br>
+            Best Project in 1 to 4 semester Category<br>
+            Project Description: Car Game using Concepts of OOP (refer to GitHub) <br>
+            16 June 2022
+        </div>
+        <br>
+        <img src="images/opf-logo-1.png" alt="OPF logo" width="4%" height="4%" align="left" />
+        <div style="margin-left: 100px;margin-top: 10px;">
+            <strong>OPF Merit based Scholarship – Overseas Pakistani Foundation</strong><br>
+            Sep 2022
+        </div>
+    </section>
+    <section>
+        <h2>Extras</h2>
+        <div style="margin-left: 70px;">
+            1. 1<sup>st</sup> semester Project used as Project solution by instructor. <br>
+            2. 2<sup>nd</sup> semester Project: C++ Car game using concepts of OOP and Won title of Best Project. <br>
+            3. 3<sup>rd</sup> semester Project: GUI (SDL2 graphics) based DSA project, Boggle Game using Trie Data
+            Structure. <br>
+            4. Non-academic Project: Human-vs-Human Chess using SDL Graphics. Near future, Human-vs-AI Chess. <br>
+            5. Finalist of Finale of Speed Programming competition (BU Code Feast’22 – 15 to 16 June 2022) <br>
+            6. Strong grip on logic building and problem solving. High achiever of programming courses: <br>
+            • (1<sup>st</sup> semester) Computer programming(C++) course marks: 91/100. <br>
+            • (2<sup>nd</sup> semester) OOP course marks: 48/50 Internals & course marks: 90/100 <br>
+            • 3rd semester DSA: A+ <br>
+        </div>
+    </section>
+    <div style="text-align:center;">
+        <iframe src="Projects/All ScreenShots - PDF.pdf" width="100%" height="1000px" position="center"></iframe>
+    </div>
+    <h1>Contact Me</h1>
     <form action="submit-form.php" method="post">
         <label for="name">Name:</label>
         <input type="text" id="name" name="name" required><br><br>
-        
+
         <label for="email">Email:</label>
         <input type="email" id="email" name="email" required><br><br>
-        
+
         <label for="message">Message:</label>
         <textarea id="message" name="message" required></textarea><br><br>
-        
+
         <input type="submit" value="Send">
     </form>
 </body>
-</html>
-<?php
 
-echo "Hello World!";
+</html>
