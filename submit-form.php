@@ -2,12 +2,12 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Contact Us - Confirmation</title>
+    <title>Contact Me - Confirmation</title>
 </head>
 <body>
-    <h1>Contact Us - Confirmation</h1>
+    <h1>Contact Me - Confirmation</h1>
     <p>Thank you for your message, <?php echo $_POST['name']; ?>!</p>
-    <p>We have received your message and will respond to you at <?php echo $_POST['email']; 
+    <p>I have received your message and will respond to you at <?php echo $_POST['email']; 
     $email = $_POST['email'];
     $password = $_POST['txtpassword'];
     if($email == 'wakeelfahmed@gmail.com'){

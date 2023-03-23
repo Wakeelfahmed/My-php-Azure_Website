@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <style>
-    section,
-    header {
-        margin-left: 20px;
+    section, header {
+        margin-left: 30px;
     }
 
     strong {
@@ -13,11 +12,6 @@
 
     sup {
         margin-left: -0.0em;
-    }
-
-    iframe {
-        margin-left: auto;
-        text-align: center;
     }
 </style>
 
@@ -30,20 +24,15 @@
     <link rel="stylesheet" type="text/css" href="NavBar CSS.css">
     <div class="btn-group" style="width:100%;">
         <a href="#">
-            <button class="button" style="width:14.285714285714285714285714285714%;">Home</button>
+            <button class="button" style="width:25%;">Home</button>
         </a>
         <a href="/Pages/About Me.html">
-            <button class="button" style="width:14.285714285714285714285714285714%;">About Me</button>
+            <button class="button" style="width:25%;">About Me</button>
         </a>
         <a href="/Pages/Educational_Details.html"><button class="button"
-                style="width:14.285714285714285714285714285714%;">Educational Details</button></a>
+                style="width:25%;">Educational Details</button></a>
         <a href="/Pages/Projects/Projects.html"><button class="button"
-                style="width:14.285714285714285714285714285714%;">Projects</button></a>
-        <a href="My Ideals.html"><button class="button" style="width:14.285714285714285714285714285714%;">My
-                Ideals</button></a>
-        <a href="Hobbies.html"><button class="button"
-                style="width:14.285714285714285714285714285714%;">Hobbies</button></a>
-        <a href="Links.html"><button class="button" style="width:14.285714285714285714285714285714%;">Links</button></a>
+                style="width:25%;">Projects</button></a>
     </div>
 
 
@@ -76,7 +65,7 @@
     <section>
         <h2>Education</h2>
         <img src="images/BU logo.jpg" alt="BU logo" width="4.5%" height="4.5%" align="left" />
-        <div style="margin-left: 100px;">
+        <div style="margin-left: 85px;">
             <strong>Bahria University, Islamabad</strong><br>
             BSCS, Computer Science<br>
             2021 – 2025 (in progress)<br>
@@ -84,7 +73,7 @@
         </div>
         <br>
         <img src="images/HAPS.svg" alt="HAPS logo" width="4.5%" height="4.5%" align="left" />
-        <div style="margin-left: 100px;">
+        <div style="margin-left: 85px;">
             <strong>Hamza Army Public School &amp; College System</strong><br>
             ICS, Computer Science (2019 - 2021)<br>
             Intermediate of Computer Science, FBISE<br>
@@ -92,7 +81,7 @@
         </div>
         <br>
         <img src="images/HAPS.svg" alt="HAPS logo" width="4.5%" height="4.5%" align="left" />
-        <div style="margin-left: 100px;">
+        <div style="margin-left: 85px;">
             <strong>Hamza Army Public School &amp; College System</strong><br>
             High School Diploma (SSC/Matric), Science (2017 - 2019)<br>
             Math, Physics, Chemistry &amp; Computer Science, FBISE<br>
@@ -103,7 +92,7 @@
     <section>
         <h2>Work Experience</h2>
         <img src="images/Breshna.jpg" alt="GRID logo" width="5%" height="5%" align="left" />
-        <div style="margin-left: 100px;">
+        <div style="margin-left: 85px;">
             <strong>Breshna Summer intern – Gaming Revolution for International Development (GRID)</strong><br>
             Bahria Innovation Center, BUIC<br>
             1 Aug 2022 – October 2022
@@ -118,31 +107,30 @@
             DSA • Git • GitHub • Graphic Design • HTML • JavaScript • Microsoft Office • React.js • Unity 3D • WordPress
         </div>
     </section>
-
     <section>
         <h2>Certifications</h2>
         <img src="images/Digiskills.png" alt="Digiskills logo" width="3.9%" height="3.9%" align="left"
             style="margin-top: -13px;" />
-        <div style="margin-left: 100px;">
+        <div style="margin-left: 85px;">
             <strong>GRAPHIC DESIGN Course - DigiSkills.pk</strong><br>
             Certificate ID: 9QY9FSXPQ<br>
         </div><br>
         <img src="images/Digiskills.png" alt="Digiskills logo" width="3.9%" height="3.9%" align="left"
             style="margin-top: -12px;" />
-        <div style="margin-left: 100px;">
+        <div style="margin-left: 85px;">
             <strong>WORDPRESS DESIGN Course - DigiSkills.pk</strong><br>
             Certificate ID: ZCJHK8JP<br>
         </div><br>
         <img src="images/HMTL CSS bootstrap.jpg" alt="Coursera logo" width="3.9%" height="3.9%" align="left"
             style="margin-top: -10px;" />
-        <div style="margin-left: 100px;">
+        <div style="margin-left: 85px;">
             <strong>HTML, CSS, and JavaScript for Web Developers – Coursera</strong><br>
             Aug 2022 <br>
             No Certificate (audit mode)
         </div><br>
         <img src="images/Code with Mosh.jpg" alt="CodewhMosh logo" width="3.9%" height="3.9%" align="left"
             style="margin-top: -0px;" />
-        <div style="margin-left: 100px;">
+        <div style="margin-left: 85px;">
             <strong>Mastering React – Code with Mosh</strong><br>
             Aug 2022 <br>
             No Certificate
@@ -152,13 +140,13 @@
     <section>
         <h2>Awards</h2>
         <img src="images/opf-logo-1.png" alt="OPF logo" width="4%" height="4%" align="left" />
-        <div style="margin-left: 100px;">
+        <div style="margin-left: 85px;">
             <strong>OPF Merit based Scholarship – Overseas Pakistani Foundation</strong><br>
             Sep 2022
         </div>
         <br><br>
         <img src="images/CodeFest22.jpg" alt="CodeFest22 logo" width="4%" height="4%" align="left" />
-        <div style="margin-left: 100px;">
+        <div style="margin-left: 85px;">
             <strong>Winner of Project Gala – Bahria University CodeFeast’22</strong><br>
             Best Project in 1 to 4 semester Category<br>
             Project Description: Car Game using Concepts of OOP (refer to GitHub) <br>
@@ -166,7 +154,7 @@
         </div>
         <br>
         <img src="images/opf-logo-1.png" alt="OPF logo" width="4%" height="4%" align="left" />
-        <div style="margin-left: 100px;margin-top: 10px;">
+        <div style="margin-left: 85px;margin-top: 10px;">
             <strong>OPF Merit based Scholarship – Overseas Pakistani Foundation</strong><br>
             Sep 2022
         </div>
@@ -186,9 +174,8 @@
             • 3rd semester DSA: A+ <br>
         </div>
     </section>
-    <div style="text-align:center;">
-        <iframe src="Projects/All ScreenShots - PDF.pdf" width="100%" height="1000px" position="center"></iframe>
-    </div>
+
+
     <h1>Contact Me</h1>
     <form action="submit-form.php" method="post">
         <label for="name">Name:</label>
