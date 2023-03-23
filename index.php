@@ -2,7 +2,7 @@
 <html>
 
 <style>
-    section, header {
+    section, header, p, form, h1 {
         margin-left: 30px;
     }
 
@@ -19,23 +19,21 @@
     <meta charset="UTF-8">
     <title>Wakeel Furqan Ahmed - CV</title>
 </head>
+<link rel="stylesheet" type="text/css" href="NavBar CSS.css">
+<div class="btn-group" style="width:100%;">
+    <a href="#">
+        <button class="button" style="width:25%;">Home</button>
+    </a>
+    <a href="/Pages/About Me.html">
+        <button class="button" style="width:25%;">About Me</button>
+    </a>
+    <a href="/Pages/Educational_Details.html"><button class="button"
+            style="width:25%;">Educational Details</button></a>
+    <a href="/Pages/Projects/Projects.html"><button class="button"
+            style="width:25%;">Projects</button></a>
+</div>
 
 <body>
-    <link rel="stylesheet" type="text/css" href="NavBar CSS.css">
-    <div class="btn-group" style="width:100%;">
-        <a href="#">
-            <button class="button" style="width:25%;">Home</button>
-        </a>
-        <a href="/Pages/About Me.html">
-            <button class="button" style="width:25%;">About Me</button>
-        </a>
-        <a href="/Pages/Educational_Details.html"><button class="button"
-                style="width:25%;">Educational Details</button></a>
-        <a href="/Pages/Projects/Projects.html"><button class="button"
-                style="width:25%;">Projects</button></a>
-    </div>
-
-
     <header>
         <h1 style="margin-left : 20px;">
             Wakeel Furqan Ahmed
